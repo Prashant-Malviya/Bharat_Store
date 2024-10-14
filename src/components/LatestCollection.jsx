@@ -38,3 +38,5 @@ function LatestCollection() {
 }
 
 export default LatestCollection
+
+//code updated
